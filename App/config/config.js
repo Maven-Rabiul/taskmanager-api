@@ -9,8 +9,8 @@ export const JWT_EXPIRATION_TIME = 60*60*24*30;
 export const EMAIL_HOST = "smtp.titan.email";
 export const EMAIL_PORT = "465";
 export const EMAIL_SECURITY = false;
-export const EMAIL_USER = "support@laravelpoint.com";
-export const EMAIL_PASSWORD = "Rup77_4827";
+export const EMAIL_USER = "mavenrabiul@gmail.com";
+export const EMAIL_PASSWORD = "1234";
 export const EMAIL_ENCRYPTION="ssl";
 export const EMAIL_UN_AUTH=false;
 

@@ -4,11 +4,12 @@
 4. App.js Config..DONE
 5. Postman Initial config..DONE
 6. Email credential config..Done
-6. Token Encode Decode Credential config
-7. Write model properties
-8. Registration API
-9. Login API
-10. Profile details API
+6. Token Encode Decode Credential config..DONE
+7. Write model properties..DONE
+8. Registration API..DONE
+9. Login API...DONE
+10. Profile details API..DONE
+
 11. Profile Update API
 12. Email verify API
 13. Code verify API
